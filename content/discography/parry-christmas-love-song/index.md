@@ -26,5 +26,8 @@ spotify:
 links:
   - type: "apple"
     href: "https://music.apple.com/gb/album/christmas-love-song-arr-ian-laidler-single/1490506639"
+  - type: "youtube"
+    href: "https://www.youtube.com/watch?v=jcQsFKlfOQY"
+    id: "jcQsFKlfOQY"
 ---
 
