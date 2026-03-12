@@ -19,6 +19,9 @@ artist_slugs: ["national-youth-choir", "nicholas-chalmers", "emily-dickens"]
 staff:
   - slug: "david-jones"
     role: "Recording Engineer & Mastering"
+  - slug: "ben-parry"
+    role: "Producer"
+    mode: "artist"
   - slug: "stefano-civetta"
     role: "Recording Engineer"
   - slug: "hester-james"
