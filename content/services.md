@@ -40,7 +40,7 @@ However, I have extensive experience in working with ensembles of all kinds and 
 ## Performance
 
 * Ensemble vocal performance (consort, choral, etc.)
-* Solo vocal performance (oratio, concert, recital, etc.)
+* Solo vocal performance (oratorio, concert, recital, etc.)
 * 1-to-1 vocal coaching
 * Group vocal coaching, including with choirs or parts thereof
 * Conducting, in both live and recorded scenarios

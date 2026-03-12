@@ -51,6 +51,9 @@ Here is a compilation of testimonials left by a few of my clients:
 > I mostly know Josh Quinlan‘s work through his singing and engraving. Both are first class: the singing accurate, well-blended and expressive, and the engraving superb.<br>
 > ~ <cite>Ralph Allwood MBE (Conductor)</cite>
 
+> Josh Quinlan (Endelium Records) provides a highly professional, efficient, and friendly service. All queries are answered promptly and it’s reassuring to work with someone who has such a detailed understanding of the business of distributing new recordings.
+> ~ <cite>Joanna Forbes L'Estrange & Alexander L'Estrange (Composers & Singers)</cite>
+
 > Josh is an artist with multiple strings to his bow. In particular, his producing and engraving work for National Youth Choir has been (and continues to be) of an exceptional standard. <br>
 > ~ <cite>Ruth Evans (Executive Producer, National Youth Choir)</cite>
 
