@@ -19,8 +19,8 @@
     <title>{{ .Site.Title | emojify }}</title>
     <meta name="title" content="{{ .Site.Title | emojify }}" />
   {{- else -}}
-    <title>{{ $pageTitle }} &middot; {{ .Site.Title | emojify }}</title>
-    <meta name="title" content="{{ $pageTitle }} &middot; {{ .Site.Title | emojify }}" />
+    <title>{{ $pageTitle }} | {{ .Site.Title | emojify }}</title>
+    <meta name="title" content="{{ $pageTitle }} | {{ .Site.Title | emojify }}" />
   {{- end }}
   {{/* Asset bundles */}}
   {{ $assets := newScratch }}
